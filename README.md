@@ -15,7 +15,7 @@ Option 2 is to run the queries on local machine using a new database system, Pos
 ## File Descriptions
 The files included in this repo are:
 1. Queries.sql - contains the SQL queries
-2. Project 1.ppt - Visualization of findings
+2. Project 1.pptx - Visualization of findings
 
 ## Licensing
 Must give credit to Udacity and PostgreSQL DVD Rental sample database.
